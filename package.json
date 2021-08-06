@@ -1,0 +1,20 @@
+{
+  "name": "shell-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChapHill/node-shell-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChapHill/node-shell-lab/issues"
+  },
+  "homepage": "https://github.com/ChapHill/node-shell-lab#readme"
+}
